@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZipManager</string>
+    <string name="btnTakePicture">Capture Image</string>
+    <string name="btnCreateZip">Create Zip</string>
+</resources>
